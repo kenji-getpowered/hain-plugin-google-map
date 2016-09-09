@@ -1,0 +1,23 @@
+{
+  "name": "hain-plugin-google-map",
+  "version": "0.0.1",
+  "description": "Allows to search in google map through the default browser",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenji-getpowered/hain-plugin-google-map.git"
+  },
+  "keywords": [
+    "hain",
+    "map",
+    "google"
+  ],
+  "author": "kenji-getpowered",
+  "license": "MIT",
+  "hain": {
+    "prefix": "/gm " ,
+    "usage": "/gm location",
+    "icon": "#fa fa-google",
+    "redirect": "/gm "
+  }
+}
