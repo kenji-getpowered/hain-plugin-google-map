@@ -15,9 +15,9 @@
   "author": "kenji-getpowered",
   "license": "MIT",
   "hain": {
-    "prefix": "/gm " ,
-    "usage": "/gm location",
+    "prefix": "/m " ,
+    "usage": "/m location",
     "icon": "#fa fa-google",
-    "redirect": "/gm "
+    "redirect": "/m "
   }
 }
