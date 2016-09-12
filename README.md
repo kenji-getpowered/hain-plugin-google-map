@@ -6,7 +6,7 @@ Allows to search in google map through the default browser
 Open Hain and type
 
 ```
-/hpm install hain-plugin-google
+/hpm install hain-plugin-google-map
 ```
 
 # Usage
