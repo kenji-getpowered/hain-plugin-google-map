@@ -11,5 +11,5 @@ Open Hain and type
 
 # Usage
 ```
-/gm  a location to find in google map
+/m  a location to find in google map
 ```
